@@ -38,8 +38,8 @@ This Excel model explores the following portfolio optimization models:
 - This Excel model was created using Microsoft Excel and may require specific Excel functionalities or add-ins for full functionality.
 
 ## Contributors
-- [Aneerudh Ravishankar]
-- [Carson James Mullen]
+- Aneerudh Ravishankar
+- Carson James Mullen
 
 ## License
 - MS Excel
