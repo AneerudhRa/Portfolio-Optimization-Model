@@ -17,12 +17,12 @@ This Excel model provides a comprehensive analysis of portfolio optimization mod
    - Similar to Sheet 1, it includes portfolio optimization models, calculations, and visualizations specific to Indian stocks.
 
 ### Graphs
-- Efficient Frontier Graph is included in the Excel model to visualize portfolio performance, risk, and asset allocation..
+- Efficient Frontier Graph is included in the Excel model to visualize portfolio performance, risk, and asset allocation.
 
 ## Portfolio Optimization Models
 This Excel model explores the following portfolio optimization models:
 1. Equally Weighted Portfolio
-2. Global Variance Minimum Portfolio
+2. Global Minimum Variance Portfolio
 3. Efficient Portfolio
 4. Optimal Portfolio
 
@@ -32,7 +32,7 @@ This Excel model explores the following portfolio optimization models:
 2. Navigate to the relevant sheet (Sheet 1 for USA stocks or Sheet 2 for Indian stocks).
 3. Explore the data, calculations, and graphs related to portfolio optimization models.
 4. Customize inputs and assumptions as needed.
-5. Interpret the results to make informed investment decisions using Expected returns, Standard deviation and Sharpe ratio.
+5. Interpret the results using Expected returns, Standard deviation and Sharpe ratio.
 
 ## Dependencies
 - This Excel model was created using Microsoft Excel and may require specific Excel functionalities or add-ins for full functionality.
