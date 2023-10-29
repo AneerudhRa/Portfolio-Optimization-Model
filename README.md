@@ -23,8 +23,8 @@ This Excel model provides a comprehensive analysis of portfolio optimization mod
 This Excel model explores the following portfolio optimization models:
 1. Equally Weighted Portfolio
 2. Global Minimum Variance Portfolio
-3. Efficient Portfolio
-4. Optimal Portfolio
+3. Maximum Return Portfolio
+4. Optimal Risky Portfolio
 
 
 ## How to Use
